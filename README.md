@@ -1,3 +1,4 @@
+<h1 align="center">InfiniteVoid-lab</h1>
 # 💫 Sobre mí:
 Hola soy InfiniteVoid-lab un estudiante que de vez en cuando hace algún proyecto chorra por diversión.<br><br>· 🧑‍🎓 Estoy estudiando Actualmente una Especialización en Inteligencia Artificial y Big Data.<br>· 🥸 Actualmente estoy aprendiendo R, Python y Common Lisp.<br>· 🤖 Lenguajes que ya se : Java, PHP, HTML, CSS y JavaScript.<br>· 🤡 Futura pagina web:
 
